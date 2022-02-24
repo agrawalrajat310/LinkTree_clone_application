@@ -9,15 +9,18 @@ body {
     background-repeat: no-repeat;
     height: 100%;
 }
+
 .profileImage {
     border-radius: 50%;
 }
+
 .profileImageContainer {
     display: flex;
     align-content: center;
     justify-content: center;
     height: 200px;
 }
+
 .name {
     display: flex;
     align-content: center;
