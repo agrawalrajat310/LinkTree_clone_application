@@ -1,2 +1,2 @@
-# LinkTree_clone_application
+# LinkTree_Clone_Application
 LinkTree Clone Application
