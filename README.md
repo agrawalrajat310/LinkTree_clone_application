@@ -3,12 +3,13 @@
 
 LinkTree Clone Application
 
-## Added 4 social media accounts :-
+## 5 ways to contact me :-
 
-1. LinkedIn
-2. Twitter
-3. YouTube
-4. CodePen
+1. GitHub
+2. LinkedIn
+3. Twitter
+4. YouTube
+5. CodePen
 
 ## Netlify Link -
 
